@@ -1,4 +1,4 @@
-ettings/
+.settings/
 .idea
 db-layer.log
 **/*.iml
