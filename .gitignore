@@ -1,0 +1,13 @@
+ettings/
+.idea
+db-layer.log
+**/*.iml
+version.txt
+db-layer.*.console.log
+JSON.sh
+.sonar
+test_report/
+pom.xml.versionsBackup
+gtfs-web-api/derby.log
+npm-debug.log
+.DS_Store
