@@ -11,3 +11,4 @@ pom.xml.versionsBackup
 gtfs-web-api/derby.log
 npm-debug.log
 .DS_Store
+target/
